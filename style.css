@@ -1,0 +1,29 @@
+*{
+    font-size: 'poppins', sans-serif;
+}
+@media only screen and (max-width:550px) {
+    .nav-1{
+        gap: 3rem;
+    }
+    .nav-2{
+        display: none;
+    }
+    .min{
+        font-size: 30px;
+    }
+    .gro{
+        margin-left: -50px;
+        width: 200px;
+    }
+    .p{
+        width:300px ;
+    }
+    .download{
+        margin-left: 15px;
+        padding-top: 40px;
+    }
+    .man{
+        margin-top: 50px;
+    }
+    
+}
